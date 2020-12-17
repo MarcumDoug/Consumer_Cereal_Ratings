@@ -6,3 +6,6 @@ This course has occurred at a time of global high stress, so this project is to 
 
 ## Data Source
 Nutrition data on 80 cereal products: https://www.kaggle.com/crawford/80-cereals
+
+## Results
+The final case study analysis and results can be found [here.](https://github.com/MarcumDoug/Consumer_Cereal_Ratings/blob/main/Case%20Study/Marcum_DSC550_CS_Final.pdf)
